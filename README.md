@@ -1,1 +1,1 @@
-# LandingPage
+# LandingPage for syntax solution
