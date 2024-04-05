@@ -26,30 +26,10 @@ width: 5%;
 box-sizing: border-box;
     }
 .d02{
-        width: 55%;
+        width: 95%;
         box-sizing: border-box;
  }
- .d03{
-
-    position: relative;
- display: flex;
- justify-content: flex-end;
-    width: 40%;
-    background-image: url("../.././../assets/images/dsi .png");
-    background-repeat: no-repeat;
-    /* Switch at 777 */
-    background-size:contain;
-    background-position:right;
-    /* background-position:right; */
-     /* background-size:cover; */
-
-     box-sizing: border-box;
-   
- }
- .d03 > img{
-
-    height: inherit;
- }
+ 
  
  .btn-lg{
     margin-right: 5%;
@@ -67,4 +47,34 @@ box-sizing: border-box;
  }
 .highlight{
     font-family: fantasy;
+}
+
+@media screen and (min-width:574px) {
+    .d03{
+
+        position: relative;
+        display: flex;
+        justify-content: flex-end;
+        width: 40%;
+        background-image: url("../.././../assets/images/dsi .png");
+        background-repeat: no-repeat;
+        /* Switch at 777 */
+        background-size:contain;
+        background-position:right;
+        /* background-position:right; */
+         /* background-size:cover; */
+    
+         box-sizing: border-box;
+       
+     }
+     .d03 > img{
+    
+        height: inherit;
+     } 
+     .d02{
+        width: 55%;
+    }
+}
+@media screen and (min-width:665px) {
+    
 }
