@@ -31,20 +31,7 @@ box-sizing: border-box;
  }
  
  
- .btn-lg{
-    margin-right: 5%;
-    margin-top: 4%;
-    box-shadow:  5px 7px 6px #bcbcbc,
-     -5px -7px 6px #ffffff;
-    border-radius: 25px;
-    font-family: "Lucida Console", "Courier New", monospace;
-    
- }
- .quote{
-    background:#EA7315 ;
-    color: #EBECF0 ;
 
- }
 .highlight{
     font-family: fantasy;
 }

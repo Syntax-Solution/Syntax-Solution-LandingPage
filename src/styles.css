@@ -1,2 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
 * { margin: 0; padding: 0; background: #EBECF0; }
+.btn-lg{
+    margin-right: 5%;
+    margin-top: 4%;
+    box-shadow:  5px 7px 6px #bcbcbc,
+     -5px -7px 6px #ffffff;
+    border-radius: 25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+ }
+ .quote{
+    background:#EA7315 ;
+    color: #EBECF0 ;
+
+ }
+ .cardinfo{
+    /* border-style:dotted;
+    border-color: rgb(65, 8, 223) !important; */
+    border-radius: 3% !important;
+    text-align: center;
+    box-shadow:  5px 7px 6px #bcbcbc,
+    -5px -7px 6px #ffffff;
+}
+.center-it{
+    text-align: center;
+}
+.flexed{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+   }
+.about{
+    margin: 10%;
+}
+.about>a{
+    margin-left: 5%;
+}
