@@ -1,0 +1,9 @@
+
+.myfooter{
+    /* position: relative; */
+    color: brown;
+    background-color: aquamarine;
+}
+.carousel {
+    position: fixed !important;
+}
