@@ -1,11 +1,5 @@
 
-.cardinfo-in{
-    border-radius: 4% !important;
-    box-shadow:
-     inset 5px 7px 6px #bcbcbc, 
-    inset -7px -6px #ffffff, inset 10px 6px 1px rgb(179, 177, 177) !important;
 
-}
 .card-text{
     width: inherit;
 }

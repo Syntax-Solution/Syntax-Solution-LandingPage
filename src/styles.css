@@ -60,3 +60,12 @@
 html {
     scroll-behavior: smooth;
   }
+
+.cardinfo-footer{
+    border-radius: 3% !important;
+    box-shadow:  5px 7px 6px #bcbcbc,
+    -5px -7px 6px #ffffff;
+}
+section {
+    position: relative;
+}
